@@ -19,7 +19,7 @@
 
  
 
-   <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
+   <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="300"/>
 
 **About Me!**
 
